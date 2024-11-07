@@ -58,6 +58,11 @@ To run this project locally, ensure you have **Node.js** and **npm** installed. 
 3. Enter a username and join the chat room.
 4. Begin messaging with other connected users.
 
+
+## Images
+![Uploading image.png…]()
+
+
 ## Project Structure
 
 - **server.js**: Main server file that handles socket connections.
